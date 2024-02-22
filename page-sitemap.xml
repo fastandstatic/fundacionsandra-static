@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-02-21T15:11:57+00:00</lastmod>
+		<lastmod>2024-02-22T16:10:54+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/Grupo-136.png</image:loc>
 		</image:image>
@@ -191,10 +191,64 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/home/</loc>
-		<lastmod>2023-04-26T22:15:44+00:00</lastmod>
+		<loc>/web-app/</loc>
+		<lastmod>2024-02-22T16:34:21+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/Homepage_1950x_365048f0-7c99-42e8-8d2c-8502bb02a57b.webp</image:loc>
+			<image:loc>/wp-content/uploads/2024/02/Grupo-6616.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Grupo-6619.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Grupo-6620.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Grupo-6614.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Grupo-6618.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Kativa-copia113.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/6576y.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Kativa.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Kativa-copia14.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Kativa-copia112.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Grupo-6614.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/img55-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/img55-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/img55-3.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/img55-4.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/img55-5.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Grupo-529.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Grupo-6618-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Grupo-6617aas.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
