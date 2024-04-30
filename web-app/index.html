@@ -753,7 +753,7 @@ function handleSubmit(event) {
                 document.cookie = name + "=" + value + ";path=/;expires=" + d.toGMTString();
             }
             var name = 'pbid';
-            var pbidHash = "adb01a442e05980951861286f2d329d149aed7ced975b606fb9006cc1106921d";
+            var pbidHash = "3e8e8edf3e4273c9894a1767cb2c878f6a7fc0ac4be103d0b335f531349229ae";
 
             if(pys_get_pbid(name) != pbidHash || pys_get_pbid(name) == '') { // prevent re send event if user update page
                 pys_set_pbid(name,pbidHash,180)
